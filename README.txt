@@ -1,6 +1,6 @@
  AWS CloudFormation Project for Scalable Web Hosting Infrastructure 
 
-I successfully designed and deployed an advanced AWS CloudFormation template to automate the creation of a comprehensive and scalable web hosting infrastructure. This project involved several key AWS services and features, providing a robust solution for hosting both static and dynamic websites.
+I designed and deployed an advanced AWS CloudFormation template to automate the creation of a comprehensive and scalable web hosting infrastructure. This project involved several key AWS services and features, providing a robust solution for hosting both static and dynamic websites.
 
 Project Highlights:
 VPC Configuration: Set up a Virtual Private Cloud (VPC) with four subnets (2 public and 2 private) to ensure high availability and fault tolerance.
